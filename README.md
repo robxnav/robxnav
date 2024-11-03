@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any project that can help us both grow
 - 📫 How to reach me: Instagram @robxnav
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: 
 
 <!---
 robxnav/robxnav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
