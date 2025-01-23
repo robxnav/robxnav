@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @robxnav
 - 👀 I’m interested in becoming a pro at software engineering and development
-- 🌱 I’m currently learning how to code via TripleTen
+- 🌱 I’m currently learning how to code with TripleTen
 - 🤝 I’m looking to collaborate on any project that can help us both grow
+- 💻 HTML/CSS, Git, GitHub, VSCode, Figma, JavaScript proficient
 - 📫 How to reach me: Instagram @robxnav
 
 <!---
